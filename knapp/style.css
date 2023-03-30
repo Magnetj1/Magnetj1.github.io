@@ -12,5 +12,14 @@ body {
     button {width: 60px ;
         padding-top: 40px;
         border-radius: 100%;
-        
+        position:absolute;
+        left:50%;
+        top:50%;
+    }
+    #plus{
+        left:585px;
+    
+    }
+    #minus{
+        left: 725px;
     }
