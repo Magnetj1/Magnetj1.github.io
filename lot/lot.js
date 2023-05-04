@@ -15,7 +15,7 @@ let slumptal = Math.floor(Math.random() *23)
 
 let t_vinst = vinster[slumptal]
 
-vinst += `<p> ${t_vinst} </p>`
+vinst += `<p style="font-family:sex_pistols"> ${t_vinst} </p>`
 }
 svar_div.innerHTML = vinst
 }
