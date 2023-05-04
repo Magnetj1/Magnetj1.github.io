@@ -42,6 +42,6 @@ document.getElementById("gissa").focus()
 }
 
 antalgissningar++
-else {p_svar.innerhtml="lOOSER!!!"}
+else {p_svar.innerhtml="lOOSER!!!§"}
 
 }
