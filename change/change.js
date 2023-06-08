@@ -17,7 +17,7 @@ constructor(antal,pengsort){
  */
 function exchange(belop,sedel){
 
-return Math.floor(belop/sedel
+return Math.floor(belop/sedel)
 }
 
 /**
